@@ -61,7 +61,7 @@ Black, grey, white| Russain kids t.v show
 
 <br>
 
-What games do you like to play?(and why)| How would you like to control the game?
+<i> What games do you like to play?(and why) </i> | How would you like to control the game?
 ---------------------------------------|---------------------------------
 minecraft (exploring and setup traps) roblox (shark bite, funworld, spends time with other)| Buttons (controls jumping, mining, hitting)
 
