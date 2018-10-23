@@ -8,11 +8,13 @@ What is your favorite subject in school?| What is your dream job?|
 -------------------------------|---------------
 Science (explosions and chemical reactions, overall experiments)| Scientist
 
+<br>
 
 What are your hobbies?| Do you like night or day? (star or sunnny)
 ---------------------------------------|-------------------------
 Baskeball and bike riding| sunrise/sundown (the pink clouds)
 
+<br>
 
 What colour do you like?| What are your favorite T.V show
 -----------------------------|--------------------------
