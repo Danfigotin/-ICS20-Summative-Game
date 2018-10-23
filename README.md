@@ -91,7 +91,7 @@ Day because you can play||
 --------------------------|-----
 Black, grey, white||
 
-<br>
+<br> 
 
 <i>What are your favorite T.V show</i>||
 ------------------------------|----------
