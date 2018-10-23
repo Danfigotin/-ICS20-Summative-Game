@@ -64,7 +64,7 @@ fornite people, explorers, hunter. Items: ropes and chest||
 
 <br>
 
-<h1>Denis<h1>
+<h1>Denis</h1>
 
 <i> What is your dream job (and why?) </i>||
 ---------------------------------------------|-
@@ -122,12 +122,7 @@ Houses||
 ------------------------------------|-------------
 Jack Frost||
 
-
-
-
 <br>
-
-
 
 <i> Would you like it to be 1st person or 3rd? </i> | | 
 -----|-----
