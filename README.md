@@ -4,7 +4,7 @@ The theme is Dignity of Persons, the teaching is humility(to be humble about you
 
 Austin
 
-What is your favorite subject in school?| What is your dream job?| 
+What is your favorite subject in school?|What is your dream job?| 
 -------------------------------|---------------
 Science (explosions and chemical reactions, overall experiments)| Scientist
 
