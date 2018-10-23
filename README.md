@@ -2,36 +2,47 @@
 This is our group project on (project title) (Benjamin, Matthew and David)
 The theme is Dignity of Persons, the teaching is humility(to be humble about your accomplishment is to be strong).
 
-Austin
+<h1> Austin </h1>
 
-What is your favorite subject in school?| What is your dream job?| 
--------------------------------|---------------
-Science (explosions and chemical reactions, overall experiments)| Scientist
+<i> What is your dream job (and why?) </i>| Answer
+---------------------------------------------
+  Scientist (explosion, chemical reactions)
 
+<i> What is your favorite subject in school? </i>|Answer 
+----------------------------------------------------------------
+Science (explosions and chemical reactions, overall experiments)
 
-What are your hobbies?| Do you like night or day? (star or sunnny)
+<br>
+
+<i> What are your hobbies? </i>| Do you like night or day? (star or sunnny)
 ---------------------------------------|-------------------------
 Baskeball and bike riding| sunrise/sundown (the pink clouds)
 
+<br>
 
-What colour do you like?| What are your favorite T.V show
+<i> What colour do you like? </i>| What are your favorite T.V show
 -----------------------------|--------------------------
 red, orange, yellow|Game shakers (skyrail, octipi and dirtyblob)
 
-What games do you like to play?(and why)| How would you like to control the game?
+<br>
+
+<i> What games do you like to play?(and why) <i> | How would you like to control the game?
 ---------------------------------------|---------------------------------
 minecraft (exploring and setup traps) roblox (shark bite, funworld, spends time with other)| Buttons (controls jumping, mining, hitting)
 
+<br>
 
-What artwork are you willing to shareor draw for us to contribute to the game?| What characters would you like to see the game?
+<i> What artwork are you willing to share or draw for us to contribute to the game?| What characters would you like to see the game? </i>
 ----------------------------------------------------|----------------------------------------------
 fornite people and forests  |fornite people, explorers, hunter. Items: ropes and chest
 
-Would you like it to be 1st person or 3rd?| | 
+<br>
+
+<i> Would you like it to be 1st person or 3rd? </i> | | 
 -----|-----
 1st person||
 
-
+<br>
 
 Denis
 
@@ -40,27 +51,35 @@ What is your favorite subject in school?| What is your dream job?|
 -------------------------------|---------------
 Art (like to draw)| Artist
 
+<br>
 
 What are your hobbies?| Do you like night or day? (star or sunnny)
 ---------------------------------------|-------------------------
 Baskeball, soccer, math games, read a book| Day because you can play
 
+<br>
 
 What colour do you like?| What are your favorite T.V show
 -----------------------------|--------------------------
-Black, grey, white| Russain kids t.v show ( who want to be a millionarie)
+Black, grey, white| Russain kids t.v show
 
-What games do you like to play?(and why)| How would you like to control the game?
+<br>
+
+<i> What games do you like to play?(and why) </i> | How would you like to control the game?
 ---------------------------------------|---------------------------------
-minecraft, Roblox, .oigames|Mouse 
+minecraft (exploring and setup traps) roblox (shark bite, funworld, spends time with other)| Buttons (controls jumping, mining, hitting)
+
+<br>
 
 What artwork are you willing to shareor draw for us to contribute to the game?| What characters would you like to see the game?
 ----------------------------------------------------|----------------------------------------------
-N/A |Jackfrost
+fornite people and forests  |fornite people, explorers, hunter. Items: ropes and chest
 
-Would you like it to be 1st person or 3rd?||
+<br>
+
+Would you like it to be 1st person or 3rd?| | 
 -----|-----
-1st person|| 
+1st person||
 
 
 
