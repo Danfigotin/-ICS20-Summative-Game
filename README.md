@@ -8,8 +8,6 @@ The theme is Dignity of Persons, the teaching is humility(to be humble about you
 ---------------------------------------------
   Scientist (explosion, chemical reactions)
 
-<br>
-
 <i> What is your favorite subject in school? </i>|Answer 
 ----------------------------------------------------------------
 Science (explosions and chemical reactions, overall experiments)
@@ -20,36 +18,35 @@ Science (explosions and chemical reactions, overall experiments)
 -------------------------
 Baskeball and bike riding
 
-<br>
 
-<i> Do you like night or day? (star or sunnny) </i> | Answer
+<i> Do you like night or day? (star or sunnny) </i> | Anser
 ------------------------------------------------------------
-Baskeball and bike riding| sunrise/sundown (the pink clouds)
+ sunrise/sundown (the pink clouds)
 
 <br>
 
-<i> What colour do you like? </i>| Answer 
--------------------
+<i> What colour do you like? </i>| Answer
+-------------------------------
 red, orange, yellow
 
 <br>
- 
-<i> What are your favorite T.V show </i> |Answer
---------------------------------------------------------------
-red, orange, yellow|Game shakers (skyrail, octipi and dirtyblob)
 
-<br>
+<i>What are your favorite T.V show</i>|Answer
+-----------------------------------------
+Game shakers (skyrail, octipi and dirtyblob)
 
-<i> What games do you like to play?(and why) <i> |Answer
-------------------------------------------------------------------------------------------
+
+<i> What games do you like to play?(and why) <i>| Answer
+---------------------------------------------------------------------
 minecraft (exploring and setup traps) roblox (shark bite, funworld, spends time with other)
-  
-  
-<i> How would you like to control the game? </i> |Answer
---------------------------------------------
- Buttons (controls jumping, mining, hitting)
 
 <br>
+
+<i>How would you like to control the game? </i>|Answer
+-----------------------------------------------------
+Buttons (controls jumping, mining, hitting)
+
+
 
 <i> What artwork are you willing to share or draw for us to contribute to the game?| What characters would you like to see the game? </i>
 ----------------------------------------------------|----------------------------------------------
