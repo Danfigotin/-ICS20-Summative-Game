@@ -58,7 +58,7 @@ What artwork are you willing to shareor draw for us to contribute to the game?| 
 ----------------------------------------------------|----------------------------------------------
 N/A |Jackfrost
 
-Would you like it to be 1st person or 3rd?| 
+Would you like it to be 1st person or 3rd?||
 -----|-----
 1st person|| 
 
