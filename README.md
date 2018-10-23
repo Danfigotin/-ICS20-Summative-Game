@@ -14,8 +14,13 @@ Science (explosions and chemical reactions, overall experiments)
 
 <br>
 
-<i> What are your hobbies? </i>| Do you like night or day? (star or sunnny)
----------------------------------------|-------------------------
+<i> What are your hobbies? </i>|Answer
+-------------------------
+Baskeball and bike riding
+
+
+<i> Do you like night or day? (star or sunnny) </i> | Answer
+------------------------------------------------------------
 Baskeball and bike riding| sunrise/sundown (the pink clouds)
 
 <br>
