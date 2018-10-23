@@ -20,6 +20,7 @@ Science (explosions and chemical reactions, overall experiments)
 -------------------------
 Baskeball and bike riding
 
+<br>
 
 <i> Do you like night or day? (star or sunnny) </i> | Answer
 ------------------------------------------------------------
@@ -27,15 +28,26 @@ Baskeball and bike riding| sunrise/sundown (the pink clouds)
 
 <br>
 
-<i> What colour do you like? </i>| What are your favorite T.V show
------------------------------|--------------------------
+<i> What colour do you like? </i>| Answer 
+-------------------
+red, orange, yellow
+
+<br>
+ 
+<i> What are your favorite T.V show </i> |Answer
+--------------------------------------------------------------
 red, orange, yellow|Game shakers (skyrail, octipi and dirtyblob)
 
 <br>
 
-<i> What games do you like to play?(and why) <i> | How would you like to control the game?
----------------------------------------|---------------------------------
-minecraft (exploring and setup traps) roblox (shark bite, funworld, spends time with other)| Buttons (controls jumping, mining, hitting)
+<i> What games do you like to play?(and why) <i> |Answer
+------------------------------------------------------------------------------------------
+minecraft (exploring and setup traps) roblox (shark bite, funworld, spends time with other)
+  
+  
+<i> How would you like to control the game? </i> |Answer
+--------------------------------------------
+ Buttons (controls jumping, mining, hitting)
 
 <br>
 
