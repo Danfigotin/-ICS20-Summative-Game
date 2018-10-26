@@ -118,15 +118,15 @@ Houses||
 
 <br>
 
-<i>What characters would you like to see the game? </i>|
+<i>What characters would you like to see the game? </i>||
 ------------------------------------|-------------
-Jack Frost|
+Jack Frost||
 
 <br>
 
 <i> Would you like it to be 1st person or 3rd? </i> | | 
 -----|-----
-1st person|
+1st person||
 
 
 
