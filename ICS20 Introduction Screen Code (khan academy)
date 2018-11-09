@@ -1,0 +1,69 @@
+/////////////////////////////////////////////////////////////////////////////
+
+//This is our introduction screen to our Blackhole video game for our ICS20. This introduction screen is made by Benjamin Phan, Matthew Nguyen and David Klimantovich. For any more information contact us at: bphan1@ocdsb.ca, mnguy14@ocdsb.ca and dklim1@ocdsb.ca:
+
+/////////////////////////////////////////////////////////////////////////////
+
+
+//variables used in draw and call functions in the introduction screen:
+
+var movingStarsX = 50;
+var movingStarsY = 50;
+var shiningStarsW = 10;
+var shiningstarsH = 10;
+var blackholeH = 150;
+var blackholeW = 150;
+var ellipsetextSize = 23;
+
+/////////////////////////////////////////////////////////////////////////////
+
+//background stars in introduction screen:
+var shiningStars = function(starX,starY) {
+    if(shiningStars<10) {
+        
+    }
+};
+
+//soaringStars
+var soaringStars = function(movingStarsX,movingStarsY) {
+    fill(226, 232, 174);
+    rect(movingStarsX,movingStarsY,10,15);
+};
+
+
+//Black Ellipse:
+var Blackhole = function() {
+
+fill(20, 15, 20);
+ellipse(200,200, blackholeH , blackholeW );
+
+};
+
+//Text in black ellipse:
+var textinEllipse = function() {
+   
+    fill(255, 255, 255);
+    textSize(ellipsetextSize);
+    text("Blackhole",150,195,250,250);
+    
+};
+
+/////////////////////////////////////////////////////////////////////////////
+
+//call function in the introduction screen:
+
+draw = function() {
+    background(39, 38, 56);
+    
+    Blackhole();
+    textinEllipse();
+    soaringStars(movingStarsX,movingStarsY);
+    soaringStars(movingStarsX,movingStarsY);
+    
+    
+    movingStarsY +=3;
+    movingStarsX +=3;
+};
+
+/////////////////////////////////////////////////////////////////////////////
+
