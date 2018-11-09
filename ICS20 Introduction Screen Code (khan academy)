@@ -9,6 +9,16 @@
 
 var movingStarsX = 50;
 var movingStarsY = 50;
+
+var movingStarsX2 = 345;
+var movingStarsY2 = 250;
+
+var movingStarsX3 = 20;
+var movingStarsY3 = 350;
+
+var movingStarsX4 = 100;
+var movingStarsY4 = 50;
+
 var shiningStarsW = 10;
 var shiningstarsH = 10;
 var blackholeH = 150;
@@ -25,7 +35,7 @@ var shiningStars = function(starX,starY) {
 };
 
 //soaringStars
-var soaringStars = function(movingStarsX,movingStarsY) {
+var soaringStars = function(movingStarsX,movingStarsY,h,w) {
     fill(226, 232, 174);
     rect(movingStarsX,movingStarsY,10,15);
 };
@@ -55,14 +65,25 @@ var textinEllipse = function() {
 draw = function() {
     background(39, 38, 56);
     
+    soaringStars(movingStarsX,movingStarsY,40,50);
+    soaringStars(movingStarsX2,movingStarsY2,20,10);
+    soaringStars(movingStarsX3,movingStarsY3,5,7);
+    soaringStars(movingStarsX4,movingStarsY4,7,8);
+  
     Blackhole();
     textinEllipse();
-    soaringStars(movingStarsX,movingStarsY);
-    soaringStars(movingStarsX,movingStarsY);
-    
-    
+  
     movingStarsY +=3;
     movingStarsX +=3;
+   
+    movingStarsX2 += 8;
+    movingStarsY2 -= 5;
+
+    movingStarsX3 += 5;
+    movingStarsY3 -= 6;
+
+    movingStarsX4 += 5;
+    movingStarsY4 -= 5;
 };
 
 /////////////////////////////////////////////////////////////////////////////
