@@ -1,0 +1,11 @@
+background(140, 230, 242);
+
+//sun
+fill (237, 240, 62);
+ellipse( 370, 28, 83, 83);
+
+//ground
+for ( var x = -4; x < 340 ; x+=84) {
+    
+    image(getImage("cute/GrassBlock"), x, 267);
+}
