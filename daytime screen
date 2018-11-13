@@ -5,12 +5,12 @@ fill (237, 240, 62);
 ellipse( 370, 28, 83, 83);
 
 //Cloud
-fill(237, 230, 230);
-ellipse(34, 45, 45, 67);
-ellipse(55, 28, 51, 46);
-ellipse(61, 57, 51, 46);
-
-
+fill(245, 242, 242);
+ellipse(60, 42, 104, 57);
+ellipse(263, 46, 81, 46);
+ellipse(167, 67, 76, 37);
+ellipse ( 102, 103, 95, 44);
+ellipse ( 256, 100, 95, 44);
 
 
 //ground
@@ -21,6 +21,6 @@ for ( var x = -4; x < 340 ; x+=84) {
 
 
 //trees
-for ( var treeX = -28; treeX < 369; treeX+= 54){
-image(getImage("cute/TreeTall"), treeX ,140);
+for ( var treeX = -28; treeX < 377; treeX+= 54){
+image(getImage("cute/TreeTall"), treeX ,161);
 }
