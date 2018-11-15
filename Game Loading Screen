@@ -1,0 +1,31 @@
+////////////////////////////////////////////////////////////////////
+//This is our loading screen to our Blackhole video game for our ICS20. This introduction screen is made by Benjamin Phan, Matthew Nguyen and David Klimantovich. For any more information contact us at: bphan1@ocdsb.ca, mnguy14@ocdsb.ca and dklim1@ocdsb.ca:
+
+//////////////////////////////////////////////////////////////////
+
+background(25, 29, 35);
+
+//Corner-Bars:
+
+var outerBar = function() {
+noStroke();
+fill(255, 255, 255);
+triangle(600,0,0,0,-5,128);
+triangle(600,472,600,600,-5,600);
+};
+
+//red-inner-bars:
+
+var innerBar = function() {
+   noStroke();
+fill(245, 246, 255);
+triangle(550,-3,-55,-45,-25,110);
+triangle(615,490,900,600,60,600);
+};
+
+//////////////////////////////////////////////////////////////////
+
+draw = function() {
+     outerBar();
+    innerBar();
+};
