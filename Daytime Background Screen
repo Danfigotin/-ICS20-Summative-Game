@@ -14,13 +14,13 @@ ellipse ( 256, 100, 95, 44);
 
 
 //ground
-for ( var x = -4; x < 340 ; x+=84) {
+for ( var x = -4; x < 340 ; x+=85) {
     
     image(getImage("cute/GrassBlock"), x, 267);
 }
 
 
 //trees
-for ( var treeX = -28; treeX < 377; treeX+= 54){
-image(getImage("cute/TreeTall"), treeX ,161);
+for ( var treeX = -28; treeX < 377; treeX+= 80){
+image(getImage("cute/TreeTall"), treeX ,196);
 }
